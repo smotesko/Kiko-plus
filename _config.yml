@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "VS"
+name:               "Volodymyr Smotesko"
 
 author:
   twitter:          thesmok
@@ -70,4 +70,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-exclude:            [vendor]
+exclude:
+  - vendor
+  - Rakefile
+  - README.md
+  - LICENSE.md
