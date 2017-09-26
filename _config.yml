@@ -76,3 +76,5 @@ exclude:
   - Rakefile
   - README.md
   - LICENSE.md
+  - deploy.sh
+
