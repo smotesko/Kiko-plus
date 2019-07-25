@@ -69,5 +69,4 @@ edge to centers of mounting holes is 6.35mm to fit
 Full [schematic PDF](https://github.com/smotesko/power-kit-PSU/blob/master/power-kit.rev1.pdf)
 and KiCAD source files are [published in git repo](https://github.com/smotesko/power-kit-PSU).
 
-Board images in this post are CAD renderings, here it is in the flesh
-![photo of power supply](/images/power-kit/build/power-kit.JPG)
+![photo of power supply](/images/power-kit/build/power-kit.jpg)
